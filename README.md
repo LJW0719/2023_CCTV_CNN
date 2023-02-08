@@ -50,4 +50,4 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 
 ### 2) Human Pose Estimation
 
-+ 
++ Introduction: Human pose estimation is performed by optimizing the objective function for geometric model fitting or by computing either the maximum likelihood estimate or the maximum a posteriori probability estimate in the probabilistic model.
