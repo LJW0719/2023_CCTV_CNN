@@ -16,8 +16,10 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 
 ## 3. Analysis Plan
 
-+ It counts the number of people in CCTV footage using yolo technique. (1_Dataset.ipynb, 2_Yolo.ipynb, 3_Count_People.ipynb)
++ First, count the number of people in CCTV footage using yolo technique. (1_Dataset.ipynb, 2_Yolo.ipynb, 3_Count_People.ipynb)
 
-+ It counts the number of cars. (0_preprocessing.ipynb, 4_Count_Car.ipynb)
++ Second, count the number of cars. (0_preprocessing.ipynb, 4_Count_Car.ipynb)
+
++ Third, add the number of people and the number of cars.
 
 ## 4. Dataset
