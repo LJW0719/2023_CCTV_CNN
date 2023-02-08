@@ -23,3 +23,7 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 + Third, add the number of people and the number of cars.
 
 ## 4. Dataset
+
++ When count the number of people, CCTV video is used.
+
++ When count the number of cars, json file is used.
