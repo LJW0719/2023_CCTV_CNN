@@ -14,3 +14,10 @@ This is a project to detect the danger when a lot of people gather in one place.
 
 Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.html (Article - predicting possible crushing accidents using base station-based data)
 
+## 3. Analysis Plan
+
++ It counts the number of people in CCTV footage using yolo technique. (1_Dataset.ipynb, 2_Yolo.ipynb, 3_Count_People.ipynb)
+
++ It counts the number of cars. (0_preprocessing.ipynb, 4_Count_Car.ipynb)
+
+## 4. Dataset
