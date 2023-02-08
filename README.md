@@ -44,4 +44,10 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 
 ### 1) Limitations
 
++ The direction in which people or cars move has not been made into a deep learning model.
+
++ It was difficult to specifically calculate how the direction of movement of people or cars affects the degree of risk.
+
+### 2) Human Pose Estimation
+
 + 
