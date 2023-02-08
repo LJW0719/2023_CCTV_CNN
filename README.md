@@ -28,10 +28,12 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 
 + When count the number of cars, JSON file is used.
 
-## 5. Count the number of people (Deep learning)
+## 5. Count the number of people (Deep Learning)
 
 + Yolo: It is a single-step object detection algorithm. The YOLO algorithm divides the original image into equal-sized grids.
 
 + Yolo detects human objects and measures the number of people by dividing them by frame. And we randomly divided the criteria to determine the degree of safety.
 
-## 6. 
+## 6. Count the number of cars (Machine Learning)
+
++ 
