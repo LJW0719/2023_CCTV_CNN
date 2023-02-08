@@ -26,4 +26,6 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 
 + When count the number of people, CCTV video is used.
 
-+ When count the number of cars, json file is used.
++ When count the number of cars, JSON file is used.
+
+## 5. Count the number of people (Deep learning)
