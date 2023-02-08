@@ -59,3 +59,9 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 + (3) Mean Shift Mode Detection: The gradient vector is expressed by computing the weighted mean in the window centered on the current point. Finally, the mode points are obtained by merging the end points of the converging trajectories.
 
 Reference: https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201344962318172&oCn=JAKO201344962318172&dbt=JAKO&journal=NJOU00020340
+
+### 3) Future Plan
+
++ In CCTV video, it finds the area of the street and the number of people per area.
+
++ It creates models that predict people's path and calculates situations that can be dangerous.
