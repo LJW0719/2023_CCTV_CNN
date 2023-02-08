@@ -36,4 +36,12 @@ Reference: https://biz.newdaily.co.kr/site/data/html/2022/11/08/2022110800078.ht
 
 ## 6. Count the number of cars (Machine Learning)
 
++ Preprocessing: It extracts car data using 'objects' key in JSON file.
+
++ It measures the number of cars by dividing them by frame. And we randomly divided the criteria to determine the quantity.
+
+## 7. Conclusion
+
+### 1) Limitations
+
 + 
